@@ -15,5 +15,19 @@
 
 <br/>
 
+### Uso do script:
+
+<br/>
+
+> definir o arquivo como executável
+```shell
+chmod +x criar_usuarios.sh
+```
+
+> iniciar o script
+```shell
+./criar_usuarios.sh
+```
+
 ---
 ### Ricardo Lopes
