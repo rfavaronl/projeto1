@@ -3,6 +3,8 @@
 
 ## Projeto de crição de script em bash para automatizar a criação de usuários, grupos, diretórios e permissões em sistema linux.
 
+<br/>
+
 ### Processos:
 - criar pastas de trabalho
 - criar contas para os usuários
@@ -11,5 +13,7 @@
 - adicionar usuários aos grupos
 - definir permissões das pastas criadas
 
+<br/>
 
+---
 ### Ricardo Lopes
